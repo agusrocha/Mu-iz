@@ -46,8 +46,8 @@ main {
     margin: 0 0 20px 0;
     padding: 15px;
     box-shadow: 0px -1px 28px 14px rgba(255,0,0,0.35) inset;
--webkit-box-shadow: 0px -1px 28px 14px rgba(255,0,0,0.35) inset;
--moz-box-shadow: 0px -1px 28px 14px rgba(255,0,0,0.35) inset;
+    -webkit-box-shadow: 0px -1px 28px 14px rgba(255,0,0,0.35) inset;
+    -moz-box-shadow: 0px -1px 28px 14px rgba(255,0,0,0.35) inset;
     background-color: white;
 }
 .diasEntrenamiento h3 {
