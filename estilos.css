@@ -5,6 +5,7 @@
 }
 a {
     text-decoration: none;
+    color: black;
 }
 .header {
     text-align: center;
@@ -16,7 +17,7 @@ a {
     background: -moz-repeating-linear-gradient(51deg,#f8b8b8 0%, #989898 20%);
 }
 img {
-    height: 60px;
+    max-width: 100%;
 }
 
 .titulo {
@@ -61,7 +62,7 @@ main {
     text-align: center;
 }
 .video {
-    max-width: 50%;
+    max-width: 60%;
 }
 
 .divImgPlanificacion {
@@ -69,6 +70,30 @@ main {
 }
 .imgPlanificacion {
     height: 160px;
+}
+.transferenciaHeader {
+    text-align: center;
+    background-color: black;
+}
+
+.divReturn {
+    display: flex;
+    justify-content: space-around;
+    margin: 12px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.return {
+    background-color: red;
+    padding: 12px;
+    border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+}
+.tituloBloque {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
 }
 footer {
     background-color: red;
