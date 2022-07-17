@@ -19,6 +19,9 @@ a {
 img {
     max-width: 100%;
 }
+.imgLogo {
+    height: 80px;
+}
 
 .titulo {
     text-align: center;
