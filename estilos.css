@@ -63,6 +63,13 @@ main {
 .video {
     max-width: 50%;
 }
+
+.divImgPlanificacion {
+    text-align: center;
+}
+.imgPlanificacion {
+    height: 160px;
+}
 footer {
     background-color: red;
     text-align: center;
