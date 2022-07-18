@@ -67,6 +67,9 @@ main {
 .video {
     max-width: 60%;
 }
+.videoCore {
+    max-width: 80%;
+}
 
 .divImgPlanificacion {
     text-align: center;
