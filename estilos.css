@@ -67,8 +67,14 @@ main {
 .video {
     max-width: 60%;
 }
+.video70{
+    max-width: 70%;
+}
 .videoCore {
     max-width: 80%;
+}
+.videoCore100 {
+    max-width: 100%;
 }
 
 .divImgPlanificacion {
